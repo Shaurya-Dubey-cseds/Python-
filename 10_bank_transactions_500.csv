@@ -1,0 +1,501 @@
+Transaction_ID,Transaction_Date,Account_Type,Transaction_Type,Transaction_Amount,Channel,City,Flagged
+TXN0001,2026-03-12,Savings,Debit,1166.97,ATM,Jaipur,No
+TXN0002,2026-02-28,Current,Credit,1609.58,Debit Card,Pune,No
+TXN0003,2026-02-07,Business,Debit,1533.74,Mobile App,Hyderabad,No
+TXN0004,2026-03-13,Salary,Credit,3740.33,Mobile App,Pune,No
+TXN0005,2026-02-07,Salary,Debit,2413.19,ATM,Kolkata,No
+TXN0006,2026-02-26,Salary,Debit,3319.3,Debit Card,Lucknow,No
+TXN0007,2026-01-28,Savings,Credit,6103.31,Mobile App,Hyderabad,No
+TXN0008,2026-03-27,Savings,Debit,6181.07,Online Banking,Kolkata,Yes
+TXN0009,2026-03-18,Salary,Debit,4464.47,Branch,Jaipur,No
+TXN0010,2026-03-15,Current,Debit,2032.14,UPI,Bengaluru,No
+TXN0011,2026-01-15,Savings,Debit,1569.18,ATM,Ahmedabad,No
+TXN0012,2026-02-25,Business,Debit,1491.31,ATM,Chennai,No
+TXN0013,2026-02-12,Current,Debit,2225.47,ATM,Chennai,No
+TXN0014,2026-01-06,Savings,Debit,2853.57,ATM,Kolkata,No
+TXN0015,2026-03-18,Business,Credit,1304.49,UPI,Jaipur,No
+TXN0016,2026-02-26,Savings,Credit,1136.47,Debit Card,Pune,No
+TXN0017,2026-01-20,Salary,Credit,3865.51,ATM,Pune,No
+TXN0018,2026-03-30,Savings,Credit,617.74,UPI,Hyderabad,No
+TXN0019,2026-02-05,Salary,Credit,2564.46,UPI,Jaipur,No
+TXN0020,2026-01-08,Salary,Debit,4281.04,Branch,Hyderabad,No
+TXN0021,2026-02-24,Business,Debit,1290.06,Branch,Ahmedabad,No
+TXN0022,2026-02-20,Business,Credit,1157.47,Debit Card,Kolkata,No
+TXN0023,2026-02-10,Business,Credit,1561.6,Online Banking,Mumbai,No
+TXN0024,2026-01-01,Business,Debit,5171.0,Branch,Mumbai,No
+TXN0025,2026-03-26,Current,Credit,2669.49,UPI,Kolkata,No
+TXN0026,2026-02-02,Current,Credit,608.41,UPI,Mumbai,No
+TXN0027,2026-01-12,Salary,Debit,2080.06,Online Banking,Ahmedabad,No
+TXN0028,2026-03-08,Salary,Credit,7057.26,Online Banking,Bengaluru,No
+TXN0029,2026-01-18,Business,Credit,6878.51,Mobile App,Delhi,No
+TXN0030,2026-01-18,Savings,Debit,5092.56,Mobile App,Mumbai,No
+TXN0031,2026-01-08,Salary,Credit,2434.87,UPI,Hyderabad,No
+TXN0032,2026-02-09,Current,Credit,621.29,Debit Card,Chennai,No
+TXN0033,2026-02-04,Business,Credit,3443.15,Online Banking,Jaipur,No
+TXN0034,2026-03-18,Salary,Debit,2566.81,Mobile App,Chennai,Yes
+TXN0035,2026-01-04,Business,Debit,3182.05,Mobile App,Jaipur,No
+TXN0036,2026-01-29,Current,Credit,11058.54,Mobile App,Jaipur,No
+TXN0037,2026-01-24,Current,Debit,3484.68,Mobile App,Chennai,No
+TXN0038,2026-01-15,Savings,Credit,3770.2,Debit Card,Ahmedabad,No
+TXN0039,2026-03-31,Current,Debit,4985.72,Mobile App,Jaipur,No
+TXN0040,2026-03-23,Current,Debit,2396.86,Online Banking,Kolkata,No
+TXN0041,2026-01-14,Business,Debit,1694.76,UPI,Chennai,Yes
+TXN0042,2026-01-01,Salary,Credit,1592.77,ATM,Hyderabad,No
+TXN0043,2026-01-28,Savings,Debit,5721.13,UPI,Pune,No
+TXN0044,2026-02-01,Savings,Credit,4577.32,Mobile App,Hyderabad,No
+TXN0045,2026-03-26,Business,Debit,1966.25,UPI,Lucknow,No
+TXN0046,2026-01-27,Business,Debit,7940.97,UPI,Mumbai,No
+TXN0047,2026-02-15,Salary,Debit,3486.6,ATM,Delhi,No
+TXN0048,2026-01-29,Business,Debit,954.14,Branch,Delhi,No
+TXN0049,2026-03-21,Savings,Debit,4989.03,UPI,Delhi,No
+TXN0050,2026-02-06,Salary,Debit,2647.67,ATM,Kolkata,Yes
+TXN0051,2026-03-31,Savings,Credit,963.45,Mobile App,Mumbai,No
+TXN0052,2026-01-05,Salary,Credit,4620.06,Debit Card,Kolkata,No
+TXN0053,2026-02-12,Current,Debit,2223.65,UPI,Pune,No
+TXN0054,2026-01-13,Salary,Debit,2135.61,Mobile App,Jaipur,No
+TXN0055,2026-03-09,Savings,Debit,4921.71,Debit Card,Lucknow,No
+TXN0056,2026-03-08,Savings,Debit,462.38,Debit Card,Mumbai,No
+TXN0057,2026-02-25,Business,Debit,1006.56,Mobile App,Lucknow,No
+TXN0058,2026-03-01,Salary,Credit,2077.99,ATM,Chennai,No
+TXN0059,2026-01-02,Business,Credit,3684.13,UPI,Delhi,No
+TXN0060,2026-03-06,Current,Credit,1693.68,Online Banking,Hyderabad,No
+TXN0061,2026-03-12,Salary,Debit,1277.67,Branch,Jaipur,No
+TXN0062,2026-03-06,Savings,Debit,1218.58,Mobile App,Jaipur,No
+TXN0063,2026-01-14,Current,Debit,2698.09,Online Banking,Mumbai,No
+TXN0064,2026-03-11,Business,Credit,5291.02,Branch,Pune,No
+TXN0065,2026-01-17,Current,Debit,869.13,ATM,Bengaluru,No
+TXN0066,2026-02-07,Salary,Credit,508.61,Debit Card,Jaipur,No
+TXN0067,2026-01-28,Salary,Credit,42000.0,Branch,Ahmedabad,No
+TXN0068,2026-03-09,Business,Debit,2154.44,Mobile App,Ahmedabad,No
+TXN0069,2026-03-03,Salary,Credit,1376.59,Online Banking,Kolkata,Yes
+TXN0070,2026-01-03,Savings,Debit,5013.96,Online Banking,Ahmedabad,No
+TXN0071,2026-01-05,Current,Credit,5907.26,ATM,Pune,No
+TXN0072,2026-02-13,Current,Debit,1845.41,ATM,Hyderabad,No
+TXN0073,2026-02-08,Savings,Debit,2224.34,Branch,Mumbai,No
+TXN0074,2026-01-14,Savings,Debit,4839.3,Online Banking,Delhi,No
+TXN0075,2026-03-17,Salary,Debit,2069.72,ATM,Ahmedabad,No
+TXN0076,2026-03-21,Business,Debit,904.45,Debit Card,Delhi,No
+TXN0077,2026-03-04,Salary,Credit,2814.58,Online Banking,Jaipur,No
+TXN0078,2026-01-28,Business,Debit,1382.16,Online Banking,Jaipur,No
+TXN0079,2026-02-22,Salary,Debit,3930.37,Debit Card,Hyderabad,No
+TXN0080,2026-01-10,Savings,Debit,1940.31,UPI,Mumbai,No
+TXN0081,2026-03-21,Savings,Debit,2538.23,Debit Card,Lucknow,Yes
+TXN0082,2026-01-12,Business,Credit,4635.51,Online Banking,Jaipur,No
+TXN0083,2026-01-31,Business,Debit,2680.89,UPI,Pune,No
+TXN0084,2026-02-04,Business,Debit,1739.04,ATM,Mumbai,No
+TXN0085,2026-01-08,Current,Debit,1267.13,ATM,Bengaluru,No
+TXN0086,2026-02-13,Salary,Debit,12873.28,Online Banking,Jaipur,No
+TXN0087,2026-01-30,Current,Debit,7635.91,Branch,Bengaluru,No
+TXN0088,2026-03-08,Savings,Debit,830.39,Debit Card,Bengaluru,No
+TXN0089,2026-01-24,Current,Credit,1218.57,Mobile App,Jaipur,No
+TXN0090,2026-03-13,Salary,Debit,4897.16,ATM,Lucknow,No
+TXN0091,2026-03-05,Savings,Credit,1807.84,Online Banking,Hyderabad,No
+TXN0092,2026-03-27,Salary,Debit,3019.63,Branch,Lucknow,No
+TXN0093,2026-03-11,Business,Credit,5954.54,ATM,Mumbai,No
+TXN0094,2026-01-17,Savings,Debit,3325.82,Mobile App,Delhi,No
+TXN0095,2026-02-15,Current,Debit,2670.89,Mobile App,Bengaluru,No
+TXN0096,2026-01-05,Current,Debit,1993.09,Debit Card,Mumbai,No
+TXN0097,2026-01-11,Business,Debit,2769.83,Branch,Ahmedabad,No
+TXN0098,2026-01-15,Salary,Debit,4140.95,Mobile App,Lucknow,No
+TXN0099,2026-02-10,Current,Credit,13024.03,Branch,Kolkata,No
+TXN0100,2026-01-17,Salary,Credit,7370.59,UPI,Delhi,No
+TXN0101,2026-03-20,Salary,Credit,2516.11,Mobile App,Chennai,No
+TXN0102,2026-01-20,Salary,Credit,6496.9,Mobile App,Pune,No
+TXN0103,2026-02-13,Savings,Debit,3293.06,ATM,Hyderabad,No
+TXN0104,2026-01-24,Business,Credit,846.26,ATM,Kolkata,No
+TXN0105,2026-03-24,Current,Debit,2722.61,Online Banking,Pune,No
+TXN0106,2026-01-15,Current,Credit,6942.96,Online Banking,Jaipur,No
+TXN0107,2026-03-30,Business,Debit,1795.59,UPI,Chennai,Yes
+TXN0108,2026-03-16,Current,Credit,6605.06,Branch,Jaipur,No
+TXN0109,2026-01-14,Business,Credit,2296.91,UPI,Hyderabad,No
+TXN0110,2026-01-07,Salary,Credit,3048.84,Branch,Delhi,Yes
+TXN0111,2026-03-25,Current,Debit,1083.04,Mobile App,Jaipur,No
+TXN0112,2026-02-01,Business,Credit,17320.6,UPI,Mumbai,No
+TXN0113,2026-01-11,Business,Debit,4382.71,ATM,Mumbai,Yes
+TXN0114,2026-02-25,Current,Credit,7024.54,Debit Card,Kolkata,Yes
+TXN0115,2026-02-13,Business,Debit,2028.79,UPI,Hyderabad,No
+TXN0116,2026-03-10,Current,Credit,859.29,Online Banking,Pune,No
+TXN0117,2026-01-31,Salary,Debit,8348.75,Online Banking,Lucknow,No
+TXN0118,2026-01-19,Current,Debit,1627.69,UPI,Jaipur,No
+TXN0119,2026-03-24,Business,Credit,12139.8,Debit Card,Pune,No
+TXN0120,2026-01-04,Current,Credit,2577.47,Branch,Chennai,No
+TXN0121,2026-02-04,Current,Debit,11859.1,Mobile App,Lucknow,No
+TXN0122,2026-03-21,Salary,Debit,1604.11,Online Banking,Pune,No
+TXN0123,2026-02-06,Business,Credit,665.55,Branch,Bengaluru,Yes
+TXN0124,2026-03-13,Current,Credit,5395.8,Online Banking,Ahmedabad,No
+TXN0125,2026-03-26,Savings,Credit,2813.43,Online Banking,Delhi,No
+TXN0126,2026-03-20,Business,Credit,2974.07,Branch,Pune,No
+TXN0127,2026-01-17,Business,Debit,7269.2,Branch,Jaipur,No
+TXN0128,2026-01-28,Savings,Debit,1408.34,Branch,Pune,No
+TXN0129,2026-01-25,Business,Credit,991.84,UPI,Delhi,No
+TXN0130,2026-01-24,Current,Credit,1104.15,Mobile App,Mumbai,No
+TXN0131,2026-02-14,Current,Credit,713.48,Mobile App,Pune,No
+TXN0132,2026-03-07,Savings,Credit,640.77,UPI,Chennai,No
+TXN0133,2026-01-17,Current,Debit,999.79,Branch,Pune,No
+TXN0134,2026-03-18,Salary,Debit,1302.57,UPI,Delhi,No
+TXN0135,2026-02-15,Salary,Debit,2018.09,Debit Card,Mumbai,No
+TXN0136,2026-03-20,Current,Debit,1061.88,Mobile App,Hyderabad,No
+TXN0137,2026-01-13,Current,Debit,2624.86,Mobile App,Kolkata,No
+TXN0138,2026-01-03,Savings,Debit,5550.04,UPI,Lucknow,No
+TXN0139,2026-01-30,Current,Debit,2406.72,UPI,Bengaluru,No
+TXN0140,2026-01-31,Salary,Debit,4116.22,Debit Card,Lucknow,No
+TXN0141,2026-03-07,Business,Credit,1321.15,ATM,Kolkata,No
+TXN0142,2026-01-15,Savings,Credit,3646.68,Debit Card,Jaipur,No
+TXN0143,2026-02-13,Savings,Debit,4202.84,ATM,Ahmedabad,No
+TXN0144,2026-02-18,Business,Credit,1618.94,UPI,Chennai,No
+TXN0145,2026-01-27,Savings,Debit,755.25,UPI,Chennai,No
+TXN0146,2026-03-04,Salary,Debit,2343.37,Branch,Lucknow,No
+TXN0147,2026-01-31,Savings,Debit,2697.15,Branch,Bengaluru,Yes
+TXN0148,2026-02-01,Current,Debit,9015.32,Online Banking,Delhi,No
+TXN0149,2026-01-22,Business,Debit,1879.6,ATM,Delhi,No
+TXN0150,2026-03-23,Savings,Credit,10542.56,Online Banking,Bengaluru,Yes
+TXN0151,2026-03-18,Business,Credit,343.9,Mobile App,Kolkata,No
+TXN0152,2026-02-20,Business,Debit,2004.43,Debit Card,Pune,No
+TXN0153,2026-03-04,Salary,Credit,1705.66,Branch,Hyderabad,No
+TXN0154,2026-01-18,Savings,Credit,1860.38,Mobile App,Delhi,No
+TXN0155,2026-01-08,Business,Credit,1634.35,Debit Card,Pune,No
+TXN0156,2026-02-25,Current,Debit,2446.55,Debit Card,Delhi,No
+TXN0157,2026-01-07,Current,Credit,10131.94,Branch,Lucknow,No
+TXN0158,2026-01-10,Salary,Debit,2232.81,Mobile App,Jaipur,No
+TXN0159,2026-02-07,Current,Debit,6903.76,Mobile App,Chennai,No
+TXN0160,2026-01-27,Salary,Credit,2336.62,Mobile App,Delhi,No
+TXN0161,2026-01-31,Business,Debit,2772.16,Branch,Delhi,No
+TXN0162,2026-03-05,Salary,Credit,42000.0,Mobile App,Jaipur,No
+TXN0163,2026-02-23,Savings,Debit,2718.82,Mobile App,Kolkata,No
+TXN0164,2026-03-25,Savings,Credit,4202.43,Mobile App,Jaipur,No
+TXN0165,2026-02-10,Business,Debit,42000.0,Mobile App,Hyderabad,No
+TXN0166,2026-01-23,Savings,Credit,1509.8,Online Banking,Pune,No
+TXN0167,2026-01-26,Savings,Debit,1229.62,UPI,Bengaluru,No
+TXN0168,2026-03-05,Business,Credit,14926.23,Mobile App,Hyderabad,Yes
+TXN0169,2026-02-20,Business,Debit,1103.44,ATM,Ahmedabad,No
+TXN0170,2026-02-03,Business,Debit,1371.27,Online Banking,Jaipur,No
+TXN0171,2026-02-22,Savings,Credit,257.24,Mobile App,Ahmedabad,No
+TXN0172,2026-01-28,Business,Credit,666.24,Mobile App,Jaipur,No
+TXN0173,2026-02-13,Current,Debit,2976.97,UPI,Ahmedabad,Yes
+TXN0174,2026-02-26,Salary,Debit,855.11,Branch,Delhi,No
+TXN0175,2026-03-25,Salary,Debit,246.12,Online Banking,Delhi,Yes
+TXN0176,2026-01-20,Current,Credit,1952.28,Mobile App,Ahmedabad,No
+TXN0177,2026-02-23,Savings,Credit,2711.3,Debit Card,Delhi,No
+TXN0178,2026-02-26,Business,Debit,3109.91,Online Banking,Hyderabad,No
+TXN0179,2026-03-08,Salary,Debit,3383.99,Online Banking,Mumbai,No
+TXN0180,2026-03-19,Business,Debit,1491.32,Online Banking,Delhi,No
+TXN0181,2026-03-27,Savings,Credit,25000.0,Online Banking,Kolkata,No
+TXN0182,2026-02-06,Savings,Debit,1556.84,Online Banking,Jaipur,No
+TXN0183,2026-02-28,Salary,Credit,3595.58,UPI,Bengaluru,No
+TXN0184,2026-03-27,Salary,Credit,855.26,Mobile App,Ahmedabad,No
+TXN0185,2026-03-17,Salary,Debit,1473.62,Online Banking,Jaipur,No
+TXN0186,2026-01-16,Business,Credit,689.54,Branch,Lucknow,Yes
+TXN0187,2026-02-20,Savings,Credit,2972.69,ATM,Jaipur,Yes
+TXN0188,2026-03-17,Business,Credit,1776.0,Debit Card,Kolkata,No
+TXN0189,2026-03-01,Current,Debit,1071.11,ATM,Mumbai,No
+TXN0190,2026-01-24,Savings,Debit,462.72,Online Banking,Jaipur,No
+TXN0191,2026-01-26,Current,Debit,3947.41,Branch,Delhi,No
+TXN0192,2026-03-21,Current,Debit,4943.71,Debit Card,Lucknow,No
+TXN0193,2026-02-02,Current,Credit,5023.69,Mobile App,Bengaluru,No
+TXN0194,2026-02-01,Savings,Credit,2319.97,ATM,Bengaluru,No
+TXN0195,2026-02-14,Savings,Debit,4476.1,ATM,Chennai,No
+TXN0196,2026-01-15,Business,Debit,5389.95,ATM,Jaipur,No
+TXN0197,2026-02-04,Current,Debit,3860.46,UPI,Pune,No
+TXN0198,2026-03-06,Current,Debit,8406.17,ATM,Pune,No
+TXN0199,2026-02-05,Current,Debit,2211.77,UPI,Kolkata,No
+TXN0200,2026-03-08,Business,Debit,3022.26,Mobile App,Mumbai,No
+TXN0201,2026-02-25,Business,Credit,712.83,ATM,Kolkata,No
+TXN0202,2026-03-01,Savings,Debit,14833.08,Mobile App,Delhi,No
+TXN0203,2026-01-17,Savings,Debit,,Online Banking,Bengaluru,Yes
+TXN0204,2026-01-26,Business,Debit,3398.02,Online Banking,Ahmedabad,No
+TXN0205,2026-02-01,Salary,Debit,4410.9,ATM,Ahmedabad,No
+TXN0206,2026-03-29,Salary,Credit,1317.87,Mobile App,Chennai,No
+TXN0207,2026-02-26,Salary,Debit,2524.76,ATM,Chennai,No
+TXN0208,2026-02-08,Current,Debit,4682.79,Online Banking,Mumbai,No
+TXN0209,2026-01-17,Business,Credit,,ATM,Kolkata,Yes
+TXN0210,2026-03-25,Salary,Credit,,Mobile App,Kolkata,No
+TXN0211,2026-01-16,Salary,Credit,2029.38,Mobile App,Mumbai,No
+TXN0212,2026-02-08,Savings,Credit,1462.89,ATM,Pune,No
+TXN0213,2026-02-25,Salary,Debit,2308.5,Online Banking,Delhi,No
+TXN0214,2026-03-24,Business,Debit,3629.99,Online Banking,Mumbai,No
+TXN0215,2026-01-12,Savings,Debit,3920.75,ATM,Ahmedabad,Yes
+TXN0216,2026-01-24,Savings,Debit,6720.81,UPI,Mumbai,No
+TXN0217,2026-03-30,Business,Debit,2808.08,Debit Card,Kolkata,No
+TXN0218,2026-01-21,Current,Debit,1751.83,UPI,Delhi,Yes
+TXN0219,2026-01-05,Current,Debit,5481.54,ATM,Kolkata,No
+TXN0220,2026-02-16,Current,Credit,3632.75,Online Banking,Ahmedabad,No
+TXN0221,2026-01-08,Savings,Debit,6298.39,Online Banking,Bengaluru,No
+TXN0222,2026-01-27,Current,Debit,3184.04,UPI,Lucknow,No
+TXN0223,2026-02-17,Savings,Credit,4268.31,Debit Card,Lucknow,No
+TXN0224,2026-01-23,Savings,Credit,3797.23,Debit Card,Kolkata,No
+TXN0225,2026-03-04,Savings,Credit,5053.74,Online Banking,Delhi,No
+TXN0226,2026-02-20,Salary,Credit,1207.52,UPI,Delhi,No
+TXN0227,2026-01-15,Savings,Debit,2511.3,Online Banking,Chennai,No
+TXN0228,2026-03-07,Current,Debit,3193.31,ATM,Delhi,No
+TXN0229,2026-02-09,Current,Debit,11619.36,Mobile App,Delhi,No
+TXN0230,2026-02-17,Salary,Credit,2588.35,Mobile App,Jaipur,No
+TXN0231,2026-02-18,Current,Credit,4046.25,Branch,Kolkata,No
+TXN0232,2026-02-07,Salary,Credit,2369.32,Debit Card,Hyderabad,No
+TXN0233,2026-01-24,Savings,Debit,485.69,Mobile App,Hyderabad,No
+TXN0234,2026-03-29,Business,Debit,7843.16,Debit Card,Chennai,No
+TXN0235,2026-03-17,Salary,Debit,4867.05,Debit Card,Pune,No
+TXN0236,2026-01-11,Savings,Credit,7862.65,ATM,Chennai,No
+TXN0237,2026-01-17,Savings,Credit,877.92,Online Banking,Ahmedabad,No
+TXN0238,2026-02-19,Savings,Credit,3494.57,Mobile App,Kolkata,No
+TXN0239,2026-03-23,Salary,Credit,3192.92,Branch,Jaipur,No
+TXN0240,2026-01-22,Savings,Credit,738.38,Debit Card,Chennai,No
+TXN0241,2026-01-03,Business,Debit,4077.41,Debit Card,Chennai,No
+TXN0242,2026-03-15,Salary,Debit,1653.65,Mobile App,Bengaluru,No
+TXN0243,2026-03-24,Savings,Debit,4165.64,Branch,Jaipur,No
+TXN0244,2026-01-19,Salary,Credit,682.35,Debit Card,Chennai,No
+TXN0245,2026-02-28,Savings,Credit,1313.66,ATM,Chennai,No
+TXN0246,2026-01-06,Salary,Credit,1518.53,Debit Card,Mumbai,No
+TXN0247,2026-02-23,Savings,Credit,765.0,Debit Card,Hyderabad,No
+TXN0248,2026-03-18,Business,Credit,2888.55,Mobile App,Ahmedabad,Yes
+TXN0249,2026-01-28,Current,Debit,8290.89,UPI,Pune,No
+TXN0250,2026-03-14,Salary,Debit,2712.91,Debit Card,Delhi,No
+TXN0251,2026-01-04,Savings,Debit,4684.52,ATM,Ahmedabad,No
+TXN0252,2026-03-25,Business,Credit,9510.07,Online Banking,Hyderabad,No
+TXN0253,2026-02-17,Savings,Credit,4398.16,ATM,Mumbai,No
+TXN0254,2026-02-11,Business,Debit,2018.01,ATM,Ahmedabad,No
+TXN0255,2026-03-24,Savings,Debit,550.17,Mobile App,Hyderabad,No
+TXN0256,2026-02-17,Business,Debit,3714.48,Mobile App,Hyderabad,No
+TXN0257,2026-03-01,Current,Debit,2098.09,Branch,Bengaluru,No
+TXN0258,2026-02-08,Savings,Debit,1882.48,Debit Card,Pune,No
+TXN0259,2026-03-14,Business,Debit,5100.37,Mobile App,Pune,No
+TXN0260,2026-01-29,Salary,Credit,42000.0,UPI,Chennai,No
+TXN0261,2026-02-05,Salary,Debit,739.93,Branch,Jaipur,No
+TXN0262,2026-03-10,Current,Credit,3397.36,ATM,Jaipur,No
+TXN0263,2026-03-12,Business,Credit,2110.21,Debit Card,Mumbai,No
+TXN0264,2026-01-02,Current,Credit,5690.66,Debit Card,Mumbai,No
+TXN0265,2026-03-31,Savings,Debit,2724.48,UPI,Chennai,No
+TXN0266,2026-01-20,Current,Credit,6047.64,Online Banking,Bengaluru,No
+TXN0267,2026-02-04,Current,Debit,1588.66,Online Banking,Lucknow,No
+TXN0268,2026-01-15,Salary,Debit,1984.28,ATM,Pune,No
+TXN0269,2026-02-27,Savings,Credit,1758.38,Mobile App,Chennai,No
+TXN0270,2026-01-17,Current,Debit,2382.44,Debit Card,Pune,No
+TXN0271,2026-01-28,Savings,Debit,2264.8,Branch,Mumbai,No
+TXN0272,2026-03-29,Business,Debit,7560.07,ATM,Mumbai,No
+TXN0273,2026-02-02,Salary,Debit,1213.73,Mobile App,Delhi,No
+TXN0274,2026-02-03,Business,Credit,2980.28,Mobile App,Ahmedabad,No
+TXN0275,2026-01-07,Current,Debit,1039.07,Mobile App,Lucknow,No
+TXN0276,2026-02-14,Current,Debit,824.1,UPI,Bengaluru,No
+TXN0277,2026-01-01,Salary,Debit,1682.56,Online Banking,Pune,No
+TXN0278,2026-01-16,Savings,Debit,780.14,ATM,Mumbai,No
+TXN0279,2026-03-12,Salary,Debit,3217.83,ATM,Chennai,No
+TXN0280,2026-02-28,Salary,Debit,1497.55,UPI,Mumbai,No
+TXN0281,2026-01-07,Business,Credit,1772.37,Branch,Pune,No
+TXN0282,2026-01-11,Current,Credit,4064.03,UPI,Delhi,No
+TXN0283,2026-03-11,Salary,Debit,10289.49,ATM,Hyderabad,No
+TXN0284,2026-01-16,Current,Debit,1776.37,UPI,Chennai,No
+TXN0285,2026-03-01,Current,Credit,534.56,UPI,Hyderabad,No
+TXN0286,2026-02-23,Salary,Debit,1989.01,Branch,Ahmedabad,No
+TXN0287,2026-03-14,Savings,Debit,2769.39,Online Banking,Jaipur,No
+TXN0288,2026-01-04,Business,Debit,7251.61,ATM,Mumbai,No
+TXN0289,2026-01-26,Salary,Debit,2693.71,Debit Card,Delhi,No
+TXN0290,2026-03-18,Salary,Credit,1328.45,UPI,Chennai,No
+TXN0291,2026-03-17,Savings,Credit,6101.89,ATM,Delhi,No
+TXN0292,2026-01-25,Salary,Credit,6999.73,Branch,Delhi,No
+TXN0293,2026-03-02,Business,Credit,2395.93,ATM,Mumbai,No
+TXN0294,2026-01-08,Salary,Debit,3596.98,ATM,Pune,No
+TXN0295,2026-02-17,Salary,Credit,3829.01,Mobile App,Jaipur,No
+TXN0296,2026-03-25,Savings,Debit,25000.0,ATM,Bengaluru,No
+TXN0297,2026-02-17,Current,Debit,1713.06,Mobile App,Pune,No
+TXN0298,2026-01-01,Salary,Debit,2009.86,Branch,Hyderabad,No
+TXN0299,2026-02-23,Savings,Credit,2624.82,Debit Card,Bengaluru,No
+TXN0300,2026-03-14,Savings,Credit,5236.95,Online Banking,Mumbai,No
+TXN0301,2026-03-17,Savings,Debit,2226.72,Mobile App,Kolkata,Yes
+TXN0302,2026-03-14,Business,Debit,4414.64,Branch,Hyderabad,No
+TXN0303,2026-03-21,Salary,Credit,6126.83,Mobile App,Mumbai,No
+TXN0304,2026-01-07,Current,Credit,15187.79,Debit Card,Pune,No
+TXN0305,2026-02-25,Business,Debit,2526.68,Branch,Mumbai,No
+TXN0306,2026-01-13,Business,Debit,2217.8,ATM,Chennai,No
+TXN0307,2026-02-22,Savings,Credit,2180.13,Branch,Kolkata,No
+TXN0308,2026-01-26,Current,Debit,604.75,ATM,Bengaluru,No
+TXN0309,2026-02-18,Salary,Credit,1069.96,Branch,Jaipur,Yes
+TXN0310,2026-02-21,Salary,Debit,3280.27,Debit Card,Delhi,No
+TXN0311,2026-02-15,Savings,Debit,3285.33,UPI,Hyderabad,No
+TXN0312,2026-02-22,Current,Debit,25000.0,UPI,Hyderabad,No
+TXN0313,2026-03-31,Business,Credit,8222.13,Mobile App,Pune,No
+TXN0314,2026-03-05,Business,Debit,55000.0,UPI,Delhi,No
+TXN0315,2026-01-22,Current,Debit,9988.75,Branch,Mumbai,Yes
+TXN0316,2026-02-12,Savings,Credit,1676.83,Debit Card,Bengaluru,No
+TXN0317,2026-03-11,Savings,Debit,1794.57,Mobile App,Delhi,No
+TXN0318,2026-03-05,Salary,Debit,1541.06,ATM,Delhi,No
+TXN0319,2026-01-05,Savings,Debit,2530.25,Debit Card,Hyderabad,No
+TXN0320,2026-03-10,Business,Debit,17785.91,Branch,Bengaluru,No
+TXN0321,2026-03-25,Savings,Credit,2321.06,Branch,Jaipur,No
+TXN0322,2026-03-20,Salary,Credit,1686.81,Debit Card,Pune,No
+TXN0323,2026-03-08,Salary,Debit,3006.4,Debit Card,Ahmedabad,No
+TXN0324,2026-03-25,Savings,Credit,5882.33,UPI,Bengaluru,No
+TXN0325,2026-02-28,Business,Debit,4355.27,UPI,Kolkata,No
+TXN0326,2026-01-19,Business,Debit,5984.66,UPI,Hyderabad,No
+TXN0327,2026-03-20,Salary,Debit,1055.73,ATM,Chennai,No
+TXN0328,2026-01-30,Salary,Credit,1405.97,UPI,Delhi,No
+TXN0329,2026-02-21,Salary,Debit,2403.91,Branch,Pune,No
+TXN0330,2026-02-13,Savings,Debit,3164.28,Branch,Bengaluru,No
+TXN0331,2026-01-09,Savings,Debit,9243.76,Online Banking,Pune,No
+TXN0332,2026-03-29,Current,Debit,1005.61,Online Banking,Delhi,No
+TXN0333,2026-02-01,Business,Debit,5041.51,Branch,Ahmedabad,No
+TXN0334,2026-02-03,Salary,Debit,2415.79,Debit Card,Jaipur,No
+TXN0335,2026-03-25,Current,Debit,4924.16,ATM,Mumbai,No
+TXN0336,2026-01-26,Salary,Credit,1688.85,Mobile App,Lucknow,No
+TXN0337,2026-01-08,Business,Debit,906.37,Online Banking,Pune,No
+TXN0338,2026-03-04,Savings,Debit,7968.39,Online Banking,Hyderabad,No
+TXN0339,2026-01-04,Business,Debit,3760.19,UPI,Delhi,No
+TXN0340,2026-03-26,Business,Credit,570.91,UPI,Ahmedabad,No
+TXN0341,2026-03-31,Current,Debit,5297.73,Online Banking,Lucknow,No
+TXN0342,2026-03-19,Salary,Credit,1257.79,Online Banking,Chennai,No
+TXN0343,2026-01-08,Current,Debit,2690.36,Debit Card,Lucknow,No
+TXN0344,2026-03-21,Current,Debit,2898.68,ATM,Jaipur,No
+TXN0345,2026-01-02,Salary,Debit,941.68,ATM,Jaipur,No
+TXN0346,2026-01-29,Business,Debit,7487.59,Branch,Delhi,No
+TXN0347,2026-01-02,Current,Credit,1886.28,Branch,Chennai,No
+TXN0348,2026-03-08,Current,Debit,68000.0,ATM,Mumbai,No
+TXN0349,2026-03-20,Business,Credit,4418.53,UPI,Ahmedabad,No
+TXN0350,2026-01-09,Savings,Credit,4529.97,Branch,Pune,No
+TXN0351,2026-01-02,Business,Credit,3682.13,UPI,Ahmedabad,No
+TXN0352,2026-03-08,Salary,Debit,15528.45,Online Banking,Bengaluru,No
+TXN0353,2026-03-12,Current,Debit,1237.89,ATM,Chennai,No
+TXN0354,2026-03-13,Savings,Debit,1519.6,Mobile App,Pune,No
+TXN0355,2026-03-06,Business,Debit,1681.47,ATM,Mumbai,No
+TXN0356,2026-01-10,Business,Debit,7776.03,ATM,Mumbai,No
+TXN0357,2026-02-13,Savings,Credit,7154.02,Debit Card,Delhi,No
+TXN0358,2026-01-23,Business,Debit,3166.78,Online Banking,Hyderabad,No
+TXN0359,2026-02-13,Savings,Debit,3694.22,Debit Card,Pune,No
+TXN0360,2026-02-05,Savings,Credit,731.88,Online Banking,Jaipur,No
+TXN0361,2026-03-26,Savings,Debit,10352.95,ATM,Jaipur,No
+TXN0362,2026-01-30,Salary,Credit,2445.61,ATM,Hyderabad,No
+TXN0363,2026-01-07,Savings,Debit,3268.71,Online Banking,Kolkata,No
+TXN0364,2026-03-15,Current,Debit,2287.02,Mobile App,Mumbai,No
+TXN0365,2026-01-05,Business,Debit,5136.84,ATM,Mumbai,No
+TXN0366,2026-03-23,Savings,Debit,2463.1,Debit Card,Mumbai,No
+TXN0367,2026-01-01,Salary,Debit,3273.23,UPI,Pune,No
+TXN0368,2026-01-28,Savings,Debit,3189.82,Branch,Chennai,No
+TXN0369,2026-02-21,Current,Debit,1924.76,ATM,Jaipur,No
+TXN0370,2026-01-17,Salary,Credit,1763.92,Debit Card,Bengaluru,No
+TXN0371,2026-02-05,Current,Debit,4134.18,Debit Card,Hyderabad,No
+TXN0372,2026-02-18,Business,Debit,4103.3,Debit Card,Chennai,No
+TXN0373,2026-03-28,Current,Debit,5530.83,Branch,Bengaluru,No
+TXN0374,2026-01-02,Salary,Debit,10146.75,ATM,Ahmedabad,No
+TXN0375,2026-03-08,Current,Debit,,Mobile App,Delhi,No
+TXN0376,2026-03-01,Savings,Debit,623.36,ATM,Chennai,No
+TXN0377,2026-01-23,Salary,Credit,2105.64,Debit Card,Ahmedabad,No
+TXN0378,2026-03-19,Current,Credit,8732.69,Debit Card,Jaipur,No
+TXN0379,2026-03-25,Current,Credit,2859.7,UPI,Delhi,No
+TXN0380,2026-02-24,Savings,Credit,634.55,UPI,Mumbai,No
+TXN0381,2026-02-19,Savings,Credit,11470.21,ATM,Bengaluru,No
+TXN0382,2026-03-13,Salary,Debit,4546.09,Debit Card,Pune,No
+TXN0383,2026-02-09,Salary,Debit,836.18,UPI,Jaipur,No
+TXN0384,2026-02-22,Current,Debit,1468.77,Online Banking,Mumbai,No
+TXN0385,2026-02-03,Business,Credit,3232.6,ATM,Mumbai,No
+TXN0386,2026-01-24,Current,Debit,1856.58,Debit Card,Chennai,No
+TXN0387,2026-02-13,Business,Credit,2650.51,Online Banking,Kolkata,No
+TXN0388,2026-03-22,Business,Debit,4613.76,Online Banking,Lucknow,No
+TXN0389,2026-02-25,Business,Debit,2986.28,UPI,Kolkata,No
+TXN0390,2026-03-12,Salary,Debit,9683.75,UPI,Pune,No
+TXN0391,2026-03-31,Business,Debit,2528.54,ATM,Bengaluru,No
+TXN0392,2026-02-18,Savings,Debit,10534.36,Debit Card,Kolkata,Yes
+TXN0393,2026-03-30,Savings,Credit,1810.92,Debit Card,Kolkata,No
+TXN0394,2026-02-28,Salary,Debit,1105.01,Branch,Ahmedabad,No
+TXN0395,2026-02-24,Salary,Credit,502.56,UPI,Hyderabad,No
+TXN0396,2026-03-09,Savings,Credit,1424.45,Debit Card,Jaipur,Yes
+TXN0397,2026-02-06,Savings,Debit,3213.99,Mobile App,Delhi,No
+TXN0398,2026-02-19,Salary,Credit,6698.3,Branch,Kolkata,No
+TXN0399,2026-01-23,Business,Credit,161.38,UPI,Mumbai,No
+TXN0400,2026-03-25,Salary,Debit,2868.52,Branch,Pune,No
+TXN0401,2026-03-31,Salary,Credit,1301.49,Debit Card,Hyderabad,No
+TXN0402,2026-03-16,Current,Debit,5408.79,Debit Card,Delhi,No
+TXN0403,2026-03-14,Current,Debit,1920.09,Online Banking,Lucknow,No
+TXN0404,2026-01-28,Business,Credit,3826.86,UPI,Pune,No
+TXN0405,2026-01-30,Savings,Credit,13693.34,ATM,Chennai,No
+TXN0406,2026-01-21,Salary,Credit,3257.26,Branch,Hyderabad,No
+TXN0407,2026-02-11,Salary,Debit,2569.23,Online Banking,Delhi,No
+TXN0408,2026-03-16,Savings,Credit,6817.58,Online Banking,Delhi,No
+TXN0409,2026-01-29,Current,Credit,3799.71,Branch,Lucknow,No
+TXN0410,2026-02-11,Business,Credit,2500.23,ATM,Chennai,No
+TXN0411,2026-03-30,Savings,Debit,760.11,UPI,Delhi,No
+TXN0412,2026-03-06,Savings,Debit,2192.61,Debit Card,Mumbai,No
+TXN0413,2026-02-20,Salary,Debit,721.58,ATM,Kolkata,No
+TXN0414,2026-02-17,Salary,Debit,3508.16,ATM,Ahmedabad,No
+TXN0415,2026-02-08,Current,Credit,,Online Banking,Ahmedabad,No
+TXN0416,2026-02-07,Current,Debit,3111.14,Online Banking,Pune,No
+TXN0417,2026-02-03,Savings,Credit,14057.95,Online Banking,Chennai,No
+TXN0418,2026-02-27,Current,Debit,1122.33,UPI,Jaipur,No
+TXN0419,2026-03-01,Current,Debit,4170.16,ATM,Lucknow,No
+TXN0420,2026-03-30,Current,Credit,3045.94,Debit Card,Kolkata,No
+TXN0421,2026-01-15,Business,Debit,1085.7,ATM,Mumbai,No
+TXN0422,2026-01-06,Salary,Debit,4495.88,Mobile App,Ahmedabad,No
+TXN0423,2026-03-23,Current,Debit,5935.1,Debit Card,Bengaluru,No
+TXN0424,2026-02-17,Salary,Debit,7608.94,UPI,Mumbai,No
+TXN0425,2026-02-19,Current,Debit,2555.98,Online Banking,Pune,No
+TXN0426,2026-01-23,Current,Debit,5046.72,Mobile App,Hyderabad,No
+TXN0427,2026-02-14,Savings,Debit,1685.57,Online Banking,Ahmedabad,No
+TXN0428,2026-01-29,Savings,Debit,10374.53,Branch,Mumbai,No
+TXN0429,2026-03-07,Savings,Credit,13463.31,Mobile App,Jaipur,No
+TXN0430,2026-01-27,Salary,Credit,3376.87,ATM,Chennai,No
+TXN0431,2026-03-24,Current,Credit,3587.85,UPI,Hyderabad,No
+TXN0432,2026-03-14,Current,Credit,1205.36,Mobile App,Jaipur,No
+TXN0433,2026-01-17,Savings,Debit,3028.58,ATM,Jaipur,No
+TXN0434,2026-01-07,Savings,Debit,2176.5,ATM,Hyderabad,No
+TXN0435,2026-01-12,Business,Debit,3605.76,Mobile App,Lucknow,No
+TXN0436,2026-02-05,Savings,Debit,35000.0,Online Banking,Delhi,No
+TXN0437,2026-03-23,Current,Debit,13315.85,Branch,Mumbai,No
+TXN0438,2026-02-28,Salary,Debit,3500.7,Debit Card,Ahmedabad,No
+TXN0439,2026-03-24,Savings,Credit,7462.67,Debit Card,Jaipur,No
+TXN0440,2026-01-31,Salary,Debit,4535.57,Mobile App,Bengaluru,No
+TXN0441,2026-03-11,Current,Credit,2343.39,Online Banking,Kolkata,No
+TXN0442,2026-01-07,Business,Debit,15193.16,UPI,Hyderabad,No
+TXN0443,2026-02-13,Current,Debit,7687.42,Debit Card,Ahmedabad,No
+TXN0444,2026-02-21,Salary,Credit,853.19,Branch,Bengaluru,No
+TXN0445,2026-01-31,Business,Debit,2939.67,UPI,Bengaluru,No
+TXN0446,2026-03-24,Business,Debit,2461.99,UPI,Ahmedabad,No
+TXN0447,2026-03-31,Current,Debit,1520.47,UPI,Jaipur,Yes
+TXN0448,2026-03-27,Current,Debit,18623.64,UPI,Ahmedabad,No
+TXN0449,2026-01-13,Business,Debit,1068.5,Debit Card,Pune,Yes
+TXN0450,2026-01-23,Business,Debit,10864.79,Mobile App,Jaipur,No
+TXN0451,2026-03-30,Current,Debit,701.17,Online Banking,Delhi,No
+TXN0452,2026-03-16,Business,Debit,9548.92,ATM,Hyderabad,No
+TXN0453,2026-01-08,Business,Debit,1920.05,Online Banking,Ahmedabad,No
+TXN0454,2026-02-22,Current,Debit,449.65,UPI,Hyderabad,No
+TXN0455,2026-03-31,Savings,Credit,3783.12,ATM,Chennai,No
+TXN0456,2026-01-23,Business,Debit,42000.0,ATM,Bengaluru,No
+TXN0457,2026-03-19,Current,Credit,1394.03,UPI,Jaipur,No
+TXN0458,2026-03-13,Current,Debit,7523.42,Debit Card,Ahmedabad,Yes
+TXN0459,2026-01-21,Business,Debit,725.56,Mobile App,Bengaluru,No
+TXN0460,2026-02-11,Current,Credit,7829.54,Mobile App,Lucknow,No
+TXN0461,2026-03-23,Current,Debit,4964.97,ATM,Delhi,No
+TXN0462,2026-01-20,Business,Credit,13756.62,UPI,Chennai,No
+TXN0463,2026-03-14,Savings,Credit,2159.82,Online Banking,Ahmedabad,No
+TXN0464,2026-01-28,Savings,Debit,6374.83,Mobile App,Lucknow,No
+TXN0465,2026-03-20,Business,Credit,,ATM,Pune,No
+TXN0466,2026-02-13,Current,Debit,6077.98,Mobile App,Jaipur,No
+TXN0467,2026-03-28,Current,Credit,3742.76,Branch,Ahmedabad,No
+TXN0468,2026-02-16,Savings,Debit,5985.42,Debit Card,Chennai,No
+TXN0469,2026-03-25,Savings,Credit,1027.18,Branch,Jaipur,No
+TXN0470,2026-01-07,Salary,Debit,4600.68,Branch,Lucknow,No
+TXN0471,2026-02-08,Current,Debit,4156.39,ATM,Hyderabad,No
+TXN0472,2026-03-11,Business,Debit,10875.11,UPI,Hyderabad,No
+TXN0473,2026-02-14,Salary,Debit,2285.85,Online Banking,Lucknow,No
+TXN0474,2026-02-05,Savings,Debit,2610.98,UPI,Bengaluru,No
+TXN0475,2026-01-30,Current,Credit,5251.55,Online Banking,Kolkata,No
+TXN0476,2026-01-18,Savings,Credit,4754.06,Branch,Delhi,No
+TXN0477,2026-01-09,Current,Credit,360.51,UPI,Jaipur,No
+TXN0478,2026-03-12,Current,Debit,2396.28,Debit Card,Ahmedabad,No
+TXN0479,2026-02-11,Current,Debit,6283.33,Online Banking,Delhi,No
+TXN0480,2026-02-21,Savings,Credit,2249.52,ATM,Ahmedabad,No
+TXN0481,2026-01-19,Business,Debit,631.87,Debit Card,Delhi,Yes
+TXN0482,2026-01-28,Current,Debit,2258.01,Mobile App,Hyderabad,No
+TXN0483,2026-01-31,Current,Debit,2957.68,Debit Card,Kolkata,No
+TXN0484,2026-03-10,Salary,Credit,1333.8,Branch,Jaipur,No
+TXN0485,2026-03-15,Business,Debit,3225.85,Online Banking,Chennai,Yes
+TXN0486,2026-02-23,Current,Credit,1186.46,ATM,Hyderabad,Yes
+TXN0487,2026-01-03,Salary,Debit,2544.97,Branch,Ahmedabad,No
+TXN0488,2026-01-22,Current,Credit,3208.15,Debit Card,Hyderabad,Yes
+TXN0489,2026-01-03,Savings,Debit,13431.49,Debit Card,Chennai,No
+TXN0490,2026-01-10,Business,Credit,4029.54,ATM,Kolkata,No
+TXN0491,2026-03-19,Business,Credit,8762.79,Debit Card,Jaipur,No
+TXN0492,2026-02-18,Business,Debit,3593.62,UPI,Mumbai,No
+TXN0493,2026-02-26,Savings,Debit,1142.81,Branch,Hyderabad,No
+TXN0494,2026-01-12,Current,Debit,1123.61,Mobile App,Kolkata,No
+TXN0495,2026-03-17,Current,Debit,5820.85,UPI,Kolkata,No
+TXN0496,2026-02-13,Salary,Credit,,Debit Card,Delhi,No
+TXN0497,2026-02-11,Business,Debit,773.72,Debit Card,Ahmedabad,No
+TXN0498,2026-03-17,Savings,Debit,6394.6,Mobile App,Hyderabad,No
+TXN0499,2026-03-10,Salary,Debit,1493.24,ATM,Kolkata,No
+TXN0500,2026-03-21,Business,Debit,1124.49,Branch,Mumbai,No
